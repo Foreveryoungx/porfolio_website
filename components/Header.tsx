@@ -29,7 +29,7 @@ export default function Header({}: Props) {
                             fgColor={"gray"}
                             bgColor={"transparent"}
                 />
-                <SocialIcon url={'https://www.linkedin.com/in/trey-allen-66b2a9a7/'}
+                <SocialIcon url={'https://twitter.com/K1DPR3SH'}
                             fgColor={"gray"}
                             bgColor={"transparent"}
                 />
