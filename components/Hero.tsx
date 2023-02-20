@@ -10,6 +10,7 @@ export default function Hero({}: Props) {
             "Hello, The Names Trey Allen",
             "I love everything about Technology",
             "Aswell as being a Life long learner",
+            "Forever a student, always a teacher"
         ],
         loop: true,
         delaySpeed: 2000,
