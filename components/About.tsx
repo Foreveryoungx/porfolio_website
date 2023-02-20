@@ -23,7 +23,7 @@ export default function About({}: Props) {
                     x:0
                 }}
                 viewport={{once: true}}
-                src={"https://res.cloudinary.com/dvfdkfitt/image/upload/v1676901197/1660612160481_hg08ko.jpg"}
+                src="https://res.cloudinary.com/dvfdkfitt/image/upload/v1676901197/1660612160481_hg08ko.jpg"
                 className = {"-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"}
                 />
             <div className="space-y-10 px-0 md:px-10">
