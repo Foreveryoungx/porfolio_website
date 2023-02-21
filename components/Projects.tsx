@@ -19,7 +19,7 @@ export default function Projects({}: Props) {
             id : "2",
             title: "Gif Search App",
             description: "Search random gifs by query",
-            imageUrl : "https://res.cloudinary.com/dvfdkfitt/image/upload/v1675222642/Screenshot_2023-01-31_at_9.37.05_PM_jfkzdz.png",
+            imageUrl : "https://res.cloudinary.com/dvfdkfitt/image/upload/v1676952273/Screenshot_2023-02-20_at_10.04.22_PM_kyybrf.png",
             imageTitle : "screenshot image of Gif App",
             githubUrl : "https://github.com/Foreveryoungx/GIF-Libary-Typescript",
             liveUrl : "https://getsearched.netlify.app/",
